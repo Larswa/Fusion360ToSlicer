@@ -1,4 +1,4 @@
-﻿namespace Fusion360SuperSlicer;
+﻿namespace Fusion360ToSlicer;
 
 public class Settings
 {

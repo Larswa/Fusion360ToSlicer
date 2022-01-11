@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fusion360SuperSlicer", "Fusion360SuperSlicer\Fusion360SuperSlicer.csproj", "{39CE2C15-5EB4-44C1-8A10-5BB3F6DEE861}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fusion360ToSlicer", "Fusion360ToSlicer\Fusion360ToSlicer.csproj", "{39CE2C15-5EB4-44C1-8A10-5BB3F6DEE861}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
