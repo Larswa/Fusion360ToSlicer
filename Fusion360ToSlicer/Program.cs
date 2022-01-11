@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using System.Diagnostics;
-using Fusion360SuperSlicer;
+using Fusion360ToSlicer;
 using Microsoft.Extensions.Configuration;
 using Microsoft.VisualBasic.FileIO;
 
